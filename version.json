@@ -1,11 +1,13 @@
 {
-  "version": "1.0.1",
-  "url": "bundles/bahikhata-1.0.1.zip",
+  "version": "1.0.2",
+  "url": "bundles/bahikhata-1.0.2.zip",
+  "checksum": "980600ce71e318da2fe30a52bc75527afbe9348d829e1c0754c44ac0725c1e84",
   "notes": [
-    "Fixed: Save button in forms (new customer, entries, items, settings) now works"
+    "Fixed in-app update downloads",
+    "Fixed Save button in forms"
   ],
   "date": "2026-09-25",
-  "minNative": "1.0.0",
+  "minNative": "1.0.2",
   "apk": "BahiKhataPlus.apk",
   "mandatory": false
 }
