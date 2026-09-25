@@ -1,8 +1,8 @@
 {
-  "version": "1.0.0",
-  "url": "bundles/bahikhata-1.0.0.zip",
+  "version": "1.0.1",
+  "url": "bundles/bahikhata-1.0.1.zip",
   "notes": [
-    "Improvements and fixes"
+    "Fixed: Save button in forms (new customer, entries, items, settings) now works"
   ],
   "date": "2026-09-25",
   "minNative": "1.0.0",
