@@ -1,10 +1,13 @@
 {
-  "version": "1.0.2",
-  "url": "bundles/bahikhata-1.0.2.zip",
-  "checksum": "980600ce71e318da2fe30a52bc75527afbe9348d829e1c0754c44ac0725c1e84",
+  "version": "1.0.3",
+  "url": "bundles/bahikhata-1.0.3.zip",
+  "checksum": "4fc5d01a5d364df88210dcec73cea0fdf4369bd6fa614465eb46c70ccc4513c3",
   "notes": [
-    "Fixed in-app update downloads",
-    "Fixed Save button in forms"
+    "New Invoices tab with list, search and cancel",
+    "Price list with retail and wholesale prices (rates stay editable on each invoice)",
+    "Invoice PDF with GST, amount in words and UPI QR",
+    "Share PDF or send details on WhatsApp right after creating an invoice",
+    "Services can skip stock tracking"
   ],
   "date": "2026-09-25",
   "minNative": "1.0.2",
