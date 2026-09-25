@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "url": "bundles/bahikhata-1.0.0.zip",
+  "notes": [
+    "Improvements and fixes"
+  ],
+  "date": "2026-09-25",
+  "minNative": "1.0.0",
+  "apk": "BahiKhataPlus.apk",
+  "mandatory": false
+}
