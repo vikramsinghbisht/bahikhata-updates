@@ -1,12 +1,9 @@
 {
-  "version": "1.0.6",
-  "url": "bundles/bahikhata-1.0.6.zip",
-  "checksum": "8cfe98c12af56d3936ae70df1a6bc1b2e7cf0e658f6766925bb23b1177ce05bf",
+  "version": "1.0.7",
+  "url": "bundles/bahikhata-1.0.7.zip",
+  "checksum": "2b014f988c448fb188e8f30b9a6eaeeecb6087d1e12ad3a13bcab12efb194498",
   "notes": [
-    "Purchases: record supplier bills from the Purchase button, see all purchases with GST input credit, cancel a purchase",
-    "Stock in hand on the Stock tab",
-    "Stock report with In, Out, In hand, positive, zero and negative stock, as PDF or Excel",
-    "Negative stock alert"
+    "Receivables & payables report: total you will receive and pay, party-wise list with ageing (0-30, 31-60, 61-90, 90+ days), last payment date, PDF and Excel. Tap You'll get / You'll give on the Ledger to open it"
   ],
   "date": "2026-09-26",
   "minNative": "1.0.2",
