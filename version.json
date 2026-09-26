@@ -1,11 +1,14 @@
 {
-  "version": "1.0.5",
-  "url": "bundles/bahikhata-1.0.5.zip",
-  "checksum": "b91a0c252bb87f1544b09e89f78e87534b6465e899acdccd3b9cdb0b0f6cc06e",
+  "version": "1.0.6",
+  "url": "bundles/bahikhata-1.0.6.zip",
+  "checksum": "8cfe98c12af56d3936ae70df1a6bc1b2e7cf0e658f6766925bb23b1177ce05bf",
   "notes": [
-    "Daily cloud backup: keep your business data safe even if your phone is lost (turn on or off in Settings)"
+    "Purchases: record supplier bills from the Purchase button, see all purchases with GST input credit, cancel a purchase",
+    "Stock in hand on the Stock tab",
+    "Stock report with In, Out, In hand, positive, zero and negative stock, as PDF or Excel",
+    "Negative stock alert"
   ],
-  "date": "2026-09-25",
+  "date": "2026-09-26",
   "minNative": "1.0.2",
   "apk": "BahiKhataPlus.apk",
   "mandatory": false
