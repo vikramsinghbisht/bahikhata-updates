@@ -1,11 +1,13 @@
 {
-  "version": "1.0.7",
-  "url": "bundles/bahikhata-1.0.7.zip",
-  "checksum": "2b014f988c448fb188e8f30b9a6eaeeecb6087d1e12ad3a13bcab12efb194498",
+  "version": "1.0.8",
+  "url": "bundles/bahikhata-1.0.8.zip",
+  "checksum": "eecf9ed5de55a2b26236cdb1c0cdea36bd47cc561d3ff27a53e086d4b9510618",
   "notes": [
-    "Receivables & payables report: total you will receive and pay, party-wise list with ageing (0-30, 31-60, 61-90, 90+ days), last payment date, PDF and Excel. Tap You'll get / You'll give on the Ledger to open it"
+    "Total incl. tax on every invoice and purchase line: type the tax-inclusive amount and the rate is worked out",
+    "Purchases can use rates that include GST",
+    "Sales & purchases summary in Reports with amount before tax, GST and incl. tax"
   ],
-  "date": "2026-09-26",
+  "date": "2026-09-27",
   "minNative": "1.0.2",
   "apk": "BahiKhataPlus.apk",
   "mandatory": false
